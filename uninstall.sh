@@ -1,6 +1,6 @@
 #This Script id created by TermuxProfessor
 #Don't copy or modify code Read License First
-#Subscribe me on YouTube www.youtube.com/c/TermuxProfessor
+#Subscribe me on YouTube www.youtube.com/c/Mwtuofficial
 clear
 echo ""
 echo -e "         \e[1;91m__\e[1;92m,-\e[1;93m////\e[1;92m, "
@@ -16,8 +16,8 @@ echo -e "                 \ \'      "
 echo -e "                  \ \     "
 echo -e "                   '-'    \e[1;97m "
 echo ""
-echo -e "\e[1;91m [+] YouTube: \e[1;92mTermuxProfessor"
-echo -e "\e[1;91m [+] Github: \e[1;92mtermuxprofessor\e[1;97m"
+echo -e "\e[1;91m [+] YouTube: \e[1;92mMwtuofficial"
+echo -e "\e[1;91m [+] Github: \e[1;92mMwtuofficial\e[1;97m"
 echo ""
 read -p " Does you want to Uninstall Parrot Shell?(Yes/No) : " input
 
