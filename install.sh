@@ -4,22 +4,22 @@
 clear
 echo "" 
 echo -e " \e[1;91m CODED BY MWTU "
-echo -e "             __\e[1;91m__     ______    __  __     " 
-echo -e "   /'\_/`\    /\ \  __/\ \   /\__  _\  /\ \/\ \    " 
-echo -e "  /\      \   \ \ \/\ \ \ \  \/_/\ \/  \ \ \ \ \    "
-echo -e "  \ \ \__\ \   \ \ \ \ \ \ \    \ \ \   \ \ \ \ \   "
-echo -e "   \ \ \_/\ \   \ \ \_/ \_\ \    \ \ \   \ \ \_\ \  "
-echo -e "    \ \_\\ \_\   \ `\___x___/     \ \_\   \ \_____\ "
-echo -e "     \/_/ \/_/    '\/__//__/       \/_/    \/_____/ \e[1;98m" 
+echo -e "                     __\e[1;91m__     ______    __  __     " 
+echo -e "  \e[1;91m /'\_/`\    /\ \  __/\ \   /\__  _\  /\ \/\ \\e[1;96m    " 
+echo -e " \e[1;91m /\      \   \ \ \/\ \ \ \  \/_/\ \/  \ \ \ \ \\e[1;96m    "
+echo -e "  \e[1;91m \ \ \__\ \   \ \ \ \ \ \ \    \ \ \   \ \ \ \ \\e[1;95m   "
+echo -e "   \e[1;91m \ \ \_/\ \   \ \ \_/ \_\ \    \ \ \   \ \ \_\ \\e[1;95m  "
+echo -e "    \e[1;91m \ \_\\ \_\   \ `\___x___/     \ \_\   \ \_____\\e[1;95m "
+echo -e "     \e[1;91m \/_/ \/_/    '\/__//__/       \/_/    \/_____/ \e[1;95m" 
 echo ""
-echo -e "\e[1;91m [+] YouTube: Mwtuofficial\e[1;98m"
-echo -e "\e[1;93m [+] Github: Mwtutech\e[1;97m" 
-echo -e " Instagram :@ mwtuofficial"
+echo -e "\e[1;92m [+] YouTube: Mwtuofficial\e[1;98m"
+echo -e "\e[1;98m [+] Github: Mwtutech\e[1;99m" 
+echo -e "\e[1;91m [+] Instagram: @ mwtuofficial\e[1;96m"
 echo "----------------------------"
-echo "
+echo "\e[1;96m
 +-+-+-+-+-+-+-+
 |W|e|l|c|o|m|e|
-+-+-+-+-+-+-+-+ "
++-+-+-+-+-+-+-+\e[1;99m "
 
 echo ""
 read -p " Does you want to install Mwtu Shell in Termux?(Yes/No) : " input
