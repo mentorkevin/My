@@ -2,8 +2,8 @@
 #Don't copy or modify code Read License First
 #Subscribe me on YouTube www.youtube.com/c/Mwtuofficial
 clear
-echo ""
-echo -e " CODED BY MWTU "
+echo "" 
+echo -e " CODED BY MWTU " | logcat
 echo -e "              __      __     ______    __  __     " | logcat
 echo -e "   /'\_/`\    /\ \  __/\ \   /\__  _\  /\ \/\ \    " | logcat
 echo -e "  /\      \   \ \ \/\ \ \ \  \/_/\ \/  \ \ \ \ \    " | logcat
