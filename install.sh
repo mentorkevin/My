@@ -1,25 +1,29 @@
-#This Script id created by TermuxProfessor
+#This Script id created by Mwtu
 #Don't copy or modify code Read License First
-#Subscribe me on YouTube www.youtube.com/c/TermuxProfessor
+#Subscribe me on YouTube www.youtube.com/c/Mwtuofficial
 clear
+echo "" 
+echo -e " CODED BY MWTU " | logcat
+echo -e "               __      __     ______    __  __     " 
+echo -e "   /'\_/`\    /\ \  __/\ \   /\__  _\  /\ \/\ \    " 
+echo -e "  /\      \   \ \ \/\ \ \ \  \/_/\ \/  \ \ \ \ \    "
+echo -e "  \ \ \__\ \   \ \ \ \ \ \ \    \ \ \   \ \ \ \ \   "
+echo -e "   \ \ \_/\ \   \ \ \_/ \_\ \    \ \ \   \ \ \_\ \  "
+echo -e "    \ \_\\ \_\   \ `\___x___/     \ \_\   \ \_____\ "
+echo -e "     \/_/ \/_/    '\/__//__/       \/_/    \/_____/   \e[1;97m " 
 echo ""
-echo -e "         \e[1;91m__\e[1;92m,-\e[1;93m////\e[1;92m, "
-echo -e "        \e[1;91m/__\e[1;92m) (\e[1;93mo\e[1;92m) ) "
-echo -e "          /.,--. \       "
-echo -e "         /,-'/.\. \      "
-echo -e "         \.  \.\ \ \     "
-echo -e "          \.  \\\ \  /   "
-echo -e "      \e[1;93m=====\e[1;91m((\e[1;93m=\e[1;91m((\e[1;92m\\e[1;93m=====.=== "
-echo -e "           \e[1;92m    \ \ \.\   "
-echo -e "                \ \ \'     "
-echo -e "                 \ \'      "
-echo -e "                  \ \     "
-echo -e "                   '-'    \e[1;97m "
+echo -e "\e[1;97m[+] YouTube: Mwtuofficial"
+echo -e "\e[1;93m[+] Github: Mwtutech" 
+echo "\e[1;91mInstagram :@ mwtuofficial"
+echo "----------------------------" | lolcat
+echo "
++-+-+-+-+-+-+-+
+|W|e|l|c|o|m|e|
++-+-+-+-+-+-+-+ "
+date | lolcat
+
 echo ""
-echo -e "\e[1;91m [+] YouTube: \e[1;92mMwtuofficial"
-echo -e "\e[1;91m [+] Github: \e[1;92mMwtutech\e[1;97m"
-echo ""
-read -p " Does you want to install Parrot Shell in Termux?(Yes/No) : " input
+read -p " Does you want to install Mwtu Shell in Termux?(Yes/No) : " input
 
 if [[ $input == Yes || $input == yes || $input == y || $input == Y ]]; then
     clear
