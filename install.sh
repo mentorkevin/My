@@ -15,12 +15,11 @@ echo ""
 echo -e "\e[1;97m [+] YouTube: Mwtuofficial\e[1;98m"
 echo -e "\e[1;93m [+] Github: Mwtutech\e[1;97m" 
 echo "\e[1;91m Instagram :@ mwtuofficial\e[1;97m"
-echo "----------------------------" | logcat
+echo "----------------------------"
 echo "
 +-+-+-+-+-+-+-+
 |W|e|l|c|o|m|e|
 +-+-+-+-+-+-+-+ "
-date | logcat
 
 echo ""
 read -p " Does you want to install Mwtu Shell in Termux?(Yes/No) : " input
