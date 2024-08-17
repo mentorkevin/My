@@ -3,7 +3,7 @@
 #Subscribe me on YouTube www.youtube.com/c/Mwtuofficial
 clear
 echo "" 
-echo -e " CODED BY MWTU " | logcat
+echo -e " CODED BY MWTU "
 echo -e "               __      __     ______    __  __     " 
 echo -e "   /'\_/`\    /\ \  __/\ \   /\__  _\  /\ \/\ \    " 
 echo -e "  /\      \   \ \ \/\ \ \ \  \/_/\ \/  \ \ \ \ \    "
