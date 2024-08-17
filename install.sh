@@ -14,7 +14,7 @@ echo -e "     \/_/ \/_/    '\/__//__/       \/_/    \/_____/   \e[1;97m "
 echo ""
 echo -e "\e[1;97m [+] YouTube: Mwtuofficial\e[1;98m"
 echo -e "\e[1;93m [+] Github: Mwtutech\e[1;97m" 
-echo "\e[1;91mInstagram :@ mwtuofficial"
+echo "\e[1;91m Instagram :@ mwtuofficial\e[1;97m"
 echo "----------------------------" | lolcat
 echo "
 +-+-+-+-+-+-+-+
