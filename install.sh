@@ -1,21 +1,29 @@
-#This Script id created by TermuxProfessor
+#This Script id created by Mwtu
 #Don't copy or modify code Read License First
 #Subscribe me on YouTube www.youtube.com/c/Mwtuofficial
 clear
 echo ""
 echo -e " CODED BY MWTU "
-echo -e "              __      __     ______    __  __     "
-echo -e "   /'\_/`\    /\ \  __/\ \   /\__  _\  /\ \/\ \    "
-echo -e "  /\      \   \ \ \/\ \ \ \  \/_/\ \/  \ \ \ \ \    "
-echo -e "  \ \ \__\ \   \ \ \ \ \ \ \    \ \ \   \ \ \ \ \   "
-echo -e "   \ \ \_/\ \   \ \ \_/ \_\ \    \ \ \   \ \ \_\ \  "
-echo -e "    \ \_\\ \_\   \ `\___x___/     \ \_\   \ \_____\ "
-echo -e "     \/_/ \/_/    '\/__//__/       \/_/    \/_____/   \e[1;97m "
+echo -e "              __      __     ______    __  __     " | logcat
+echo -e "   /'\_/`\    /\ \  __/\ \   /\__  _\  /\ \/\ \    " | logcat
+echo -e "  /\      \   \ \ \/\ \ \ \  \/_/\ \/  \ \ \ \ \    " | logcat
+echo -e "  \ \ \__\ \   \ \ \ \ \ \ \    \ \ \   \ \ \ \ \   " | logcat
+echo -e "   \ \ \_/\ \   \ \ \_/ \_\ \    \ \ \   \ \ \_\ \  " | logcat
+echo -e "    \ \_\\ \_\   \ `\___x___/     \ \_\   \ \_____\ " | logcat
+echo -e "     \/_/ \/_/    '\/__//__/       \/_/    \/_____/    " | logcat
 echo ""
-echo -e "\e[1;91m [+] YouTube: \e[1;92mMwtuofficial"
-echo -e "\e[1;91m [+] Github: \e[1;92mMwtutech\e[1;97m"
+echo -e " [+] YouTube: Mwtuofficial" | logcat
+echo -e " [+] Github: Mwtutech" | logcat
+echo "Instagram :@ mwtuofficial" | logcat
+echo "----------------------------" | logcat
+echo "
++-+-+-+-+-+-+-+
+|W|e|l|c|o|m|e|
++-+-+-+-+-+-+-+ " | logcat
+date | logcat
+
 echo ""
-read -p " Does you want to install Parrot Shell in Termux?(Yes/No) : " input
+read -p " Does you want to install Mwtu Shell in Termux?(Yes/No) : " input
 
 if [[ $input == Yes || $input == yes || $input == y || $input == Y ]]; then
     clear
