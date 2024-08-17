@@ -1,4 +1,4 @@
-# ParrotShell
+# MwtuShell
 With the help of this tool you can change your termux shell to look like parrot os shell.
 <p align="center">
   <img src="https://1.bp.blogspot.com/-UZI_fYmufoY/X12zQE6BYtI/AAAAAAAAARM/KDh2LTTZyvQ9Q0Xgy3w39Wc1faqjL71OACLcBGAsYHQ/s1052/Screenshot_20200913_111943.jpg" width="470" height="250">
