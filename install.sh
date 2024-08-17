@@ -11,22 +11,18 @@ printf "\e[0m\e[93m |  |  |  |    \    /\    /        |  |     |  `--'  |  \e[0m
 printf "\e[0m\e[93m |__|  |__|     \__/  \__/         |__|      \______/   \e[0m\n"
                                                        
 
-   ______    _______  _______  __    ______  __       ___       __      
-  /  __  \  |   ____||   ____||  |  /      ||  |     /   \     |  |     
- |  |  |  | |  |__   |  |__   |  | |  ,----'|  |    /  ^  \    |  |     
- |  |  |  | |   __|  |   __|  |  | |  |     |  |   /  /_\  \   |  |     
- |  `--'  | |  |     |  |     |  | |  `----.|  |  /  _____  \  |  `----.
-  \______/  |__|     |__|     |__|  \______||__| /__/     \__\ |_______|
+printf "\e[0m\e[94m   ______    _______  _______  __    ______  __       ___       __.       \e[0m\n"
+printf "\e[0m\e[94m  /  __  \  |   ____||   ____||  |  /      ||  |     /   \     |  |       \e[0m\n"
+printf "\e[0m\e[94m |  |  |  | |  |__   |  |__   |  | |  ,----'|  |    /  ^  \    |  |       \e[0m\n"
+printf "\e[0m\e[94m |  |  |  | |   __|  |   __|  |  | |  |     |  |   /  /_\  \   |  |       \e[0m\n"
+printf "\e[0m\e[94m |  `--'  | |  |     |  |     |  | |  `----.|  |  /  _____  \  |  `----.  \e[0m\n"
+printf "\e[0m\e[94m  \______/  |__|     |__|     |__|  \______||__| /__/     \__\ |_______|  \e[0m\n"
                                                                         
 
 
-printf "\e[0m\e[93m _  _ ___ _   _    ___  _  _ ___ ___ _  _ ___  ___
-printf "\e[0m\e[93m |\ | |__  \_/    |___] |__|  |  |__ |__| |__ |__/ \e[0m\n"
-printf "\e[0m\e[93m | \| |__ _/ \_   |    _|  | _|_ ___||  |_|__ | \_ \e[0m\e[1;46m[V 1.0]\e[0m\n"
 printf "\e[0m\n"
-printf "    \e[0m\e[1;44m Advanced Phishing Tool with 30+ Templates\e[0m\n"
 printf "\e[0m\n"
-printf "\e[0m\e[91m    [\e[0m\e[96m BY \e[0m\e[91m: \e[0m\e[96mhttps://github.com/mwtutech \e[0m\e[91m] \e[0m\n"
+printf "\e[0m\e[91m    [\e[0m\e[96m BY MWTU \e[0m\e[91m: \e[0m\e[96mYOUTUBE :MWTUOFFICIAL \e[0m\e[91m] \e[0m\n"
 printf "\e[0m\n"
 
 read -p " Does you want to install Mwtu Shell in Termux?(Yes/No) : " input
