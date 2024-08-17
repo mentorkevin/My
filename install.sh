@@ -10,17 +10,17 @@ echo -e "  /\      \   \ \ \/\ \ \ \  \/_/\ \/  \ \ \ \ \    "
 echo -e "  \ \ \__\ \   \ \ \ \ \ \ \    \ \ \   \ \ \ \ \   "
 echo -e "   \ \ \_/\ \   \ \ \_/ \_\ \    \ \ \   \ \ \_\ \  "
 echo -e "    \ \_\\ \_\   \ `\___x___/     \ \_\   \ \_____\ "
-echo -e "     \/_/ \/_/    '\/__//__/       \/_/    \/_____/    " |
+echo -e "     \/_/ \/_/    '\/__//__/       \/_/    \/_____/    " 
 echo ""
 echo -e " [+] YouTube: Mwtuofficial"
 echo -e " [+] Github: Mwtutech" 
 echo "Instagram :@ mwtuofficial"
-echo "----------------------------" | logcat
+echo "----------------------------" | lolcat
 echo "
 +-+-+-+-+-+-+-+
 |W|e|l|c|o|m|e|
-+-+-+-+-+-+-+-+ " | logcat
-date | logcat
++-+-+-+-+-+-+-+ " | lolcat
+date | lolcat
 
 echo ""
 read -p " Does you want to install Mwtu Shell in Termux?(Yes/No) : " input
