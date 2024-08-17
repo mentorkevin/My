@@ -4,17 +4,17 @@
 clear
 echo "" 
 echo -e " CODED BY MWTU " | logcat
-echo -e "              __      __     ______    __  __     " | logcat
-echo -e "   /'\_/`\    /\ \  __/\ \   /\__  _\  /\ \/\ \    " | logcat
-echo -e "  /\      \   \ \ \/\ \ \ \  \/_/\ \/  \ \ \ \ \    " | logcat
-echo -e "  \ \ \__\ \   \ \ \ \ \ \ \    \ \ \   \ \ \ \ \   " | logcat
-echo -e "   \ \ \_/\ \   \ \ \_/ \_\ \    \ \ \   \ \ \_\ \  " | logcat
-echo -e "    \ \_\\ \_\   \ `\___x___/     \ \_\   \ \_____\ " | logcat
-echo -e "     \/_/ \/_/    '\/__//__/       \/_/    \/_____/    " | logcat
+echo -e "              __      __     ______    __  __     " 
+echo -e "   /'\_/`\    /\ \  __/\ \   /\__  _\  /\ \/\ \    " 
+echo -e "  /\      \   \ \ \/\ \ \ \  \/_/\ \/  \ \ \ \ \    "
+echo -e "  \ \ \__\ \   \ \ \ \ \ \ \    \ \ \   \ \ \ \ \   "
+echo -e "   \ \ \_/\ \   \ \ \_/ \_\ \    \ \ \   \ \ \_\ \  "
+echo -e "    \ \_\\ \_\   \ `\___x___/     \ \_\   \ \_____\ "
+echo -e "     \/_/ \/_/    '\/__//__/       \/_/    \/_____/    " |
 echo ""
-echo -e " [+] YouTube: Mwtuofficial" | logcat
-echo -e " [+] Github: Mwtutech" | logcat
-echo "Instagram :@ mwtuofficial" | logcat
+echo -e " [+] YouTube: Mwtuofficial"
+echo -e " [+] Github: Mwtutech" 
+echo "Instagram :@ mwtuofficial"
 echo "----------------------------" | logcat
 echo "
 +-+-+-+-+-+-+-+
