@@ -15,7 +15,7 @@ echo ""
 echo -e "\e[1;97m [+] YouTube: Mwtuofficial\e[1;98m"
 echo -e "\e[1;93m [+] Github: Mwtutech\e[1;97m" 
 echo "\e[1;91m Instagram :@ mwtuofficial\e[1;97m"
-echo "----------------------------" | lolcat
+echo "----------------------------" | logcat
 echo "
 +-+-+-+-+-+-+-+
 |W|e|l|c|o|m|e|
