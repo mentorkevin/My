@@ -3,7 +3,7 @@
 #Subscribe me on YouTube www.youtube.com/c/Mwtuofficial
 clear
 echo "" 
-echo -e " \e[1;91m CODED BY MWTU\e[0m\n"
+echo -e "CODED BY MWTU\e[0m\n"
 echo -e "                                __      __     ______    __  __     \e[0m\n" 
 echo -e "\e[1;92m            /'\_/`\    /\ \  __/\ \   /\__  _\  /\ \/\ \    \e[0m\n" 
 echo -e " \e[1;92m          /\      \   \ \ \ \ \ \ \  \/_/\ \/  \ \ \ \ \   \e[0m\n"
