@@ -3,14 +3,14 @@
 #Subscribe me on YouTube www.youtube.com/c/Mwtuofficial
 clear
 echo "" 
-echo -e " CODED BY MWTU "
-echo -e "               __      __     ______    __  __     " 
+echo -e " \e[1;91m CODED BY MWTU "
+echo -e "             __\e[1;91m__     ______    __  __     " 
 echo -e "   /'\_/`\    /\ \  __/\ \   /\__  _\  /\ \/\ \    " 
 echo -e "  /\      \   \ \ \/\ \ \ \  \/_/\ \/  \ \ \ \ \    "
 echo -e "  \ \ \__\ \   \ \ \ \ \ \ \    \ \ \   \ \ \ \ \   "
 echo -e "   \ \ \_/\ \   \ \ \_/ \_\ \    \ \ \   \ \ \_\ \  "
 echo -e "    \ \_\\ \_\   \ `\___x___/     \ \_\   \ \_____\ "
-echo -e "     \/_/ \/_/    '\/__//__/       \/_/    \/_____/ " 
+echo -e "     \/_/ \/_/    '\/__//__/       \/_/    \/_____/ \e[1;98m" 
 echo ""
 echo -e "\e[1;91m [+] YouTube: Mwtuofficial\e[1;98m"
 echo -e "\e[1;93m [+] Github: Mwtutech\e[1;97m" 
