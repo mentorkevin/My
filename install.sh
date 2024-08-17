@@ -2,7 +2,7 @@
 #Don't copy or modify code Read License First
 #Subscribe me on YouTube www.youtube.com/c/Mwtuofficial
 clear
-echo "" 
+echo "\e[0m\n" 
 echo -e "CODED BY MWTU\e[0m\n"
 echo -e "                                __      __     ______    __  __     \e[0m\n" 
 echo -e "\e[1;92m            /'\_/`\    /\ \  __/\ \   /\__  _\  /\ \/\ \    \e[0m\n" 
@@ -20,7 +20,7 @@ echo "
 |W|e|l|c|o|m|e|
 +-+-+-+-+-+-+-+"
 
-echo ""
+echo "\e[0m\n"
 read -p " Does you want to install Mwtu Shell in Termux?(Yes/No) : " input
 
 if [[ $input == Yes || $input == yes || $input == y || $input == Y ]]; then
