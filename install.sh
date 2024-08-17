@@ -20,7 +20,7 @@ echo "
 +-+-+-+-+-+-+-+
 |W|e|l|c|o|m|e|
 +-+-+-+-+-+-+-+ "
-date | lolcat
+date | logcat
 
 echo ""
 read -p " Does you want to install Mwtu Shell in Termux?(Yes/No) : " input
